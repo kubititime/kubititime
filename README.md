@@ -1,4 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D03AQFE8AC_SJyw1w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697787619126?e=1747872000&v=beta&t=MlJOxtInZNSnY0U9P03ayDcyRAyRZ14ShU5jiQDyzuE)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQG3-ZeBjHfNiQ/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1732294036835?e=1747872000&v=beta&t=UWmSmXow0b-fQ2jzDwJUIyk5H1Q1jNEJbbe6nDWCzR4)
+
 <h1 align="center">Hi , I'm Kubilay</h1>
 <h3 align="center">I'm an electrical-electronical engineering student at Hacettepe University</h3>
 
