@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kubititime&show_icons=true&locale=en&layout=compact" alt="kubititime" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kubititime&show_icons=true&locale=en" alt="kubititime" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kubititime&" alt="kubititime" /></p>
